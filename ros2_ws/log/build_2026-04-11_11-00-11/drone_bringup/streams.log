@@ -1,0 +1,32 @@
+[1.058s] Invoking command in '/home/sean/projects/ML_Quadcopter/ros2_ws/src/drone_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_bringup build --build-base /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build install --record /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/install.log --single-version-externally-managed install_data
+[1.276s] running egg_info
+[1.276s] creating ../../build/drone_bringup/drone_bringup.egg-info
+[1.292s] writing ../../build/drone_bringup/drone_bringup.egg-info/PKG-INFO
+[1.292s] writing dependency_links to ../../build/drone_bringup/drone_bringup.egg-info/dependency_links.txt
+[1.292s] writing requirements to ../../build/drone_bringup/drone_bringup.egg-info/requires.txt
+[1.292s] writing top-level names to ../../build/drone_bringup/drone_bringup.egg-info/top_level.txt
+[1.292s] writing manifest file '../../build/drone_bringup/drone_bringup.egg-info/SOURCES.txt'
+[1.325s] reading manifest file '../../build/drone_bringup/drone_bringup.egg-info/SOURCES.txt'
+[1.325s] writing manifest file '../../build/drone_bringup/drone_bringup.egg-info/SOURCES.txt'
+[1.326s] running build
+[1.326s] running build_py
+[1.326s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build
+[1.326s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build/lib
+[1.326s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build/lib/drone_bringup
+[1.326s] copying drone_bringup/__init__.py -> /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build/lib/drone_bringup
+[1.326s] running install
+[1.331s] running install_lib
+[1.347s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages/drone_bringup
+[1.347s] copying /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build/lib/drone_bringup/__init__.py -> /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages/drone_bringup
+[1.348s] byte-compiling /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages/drone_bringup/__init__.py to __init__.cpython-312.pyc
+[1.348s] running install_data
+[1.348s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/share/ament_index
+[1.348s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/share/ament_index/resource_index
+[1.348s] creating /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/share/ament_index/resource_index/packages
+[1.349s] copying resource/drone_bringup -> /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/share/ament_index/resource_index/packages
+[1.349s] copying package.xml -> /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/share/drone_bringup
+[1.349s] running install_egg_info
+[1.366s] Copying ../../build/drone_bringup/drone_bringup.egg-info to /home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages/drone_bringup-0.0.0-py3.12.egg-info
+[1.367s] running install_scripts
+[1.483s] writing list of installed files to '/home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/install.log'
+[1.506s] Invoked command in '/home/sean/projects/ML_Quadcopter/ros2_ws/src/drone_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sean/projects/ML_Quadcopter/ros2_ws/install/drone_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_bringup build --build-base /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/build install --record /home/sean/projects/ML_Quadcopter/ros2_ws/build/drone_bringup/install.log --single-version-externally-managed install_data
