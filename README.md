@@ -23,7 +23,7 @@ The long-term objective is to develop a drone capable of **detecting and trackin
 
 Below is the high-level architecture of the system:
 
-![Drone Architecture](docs_architecture.png)
+![Drone Architecture](/docs/diagrams/docs_architecture.png)
 
 Core system flow:
 
