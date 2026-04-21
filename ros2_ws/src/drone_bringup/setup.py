@@ -15,8 +15,8 @@ setup(
     zip_safe=True,
     maintainer='sean',
     maintainer_email='scsean19@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Launch and initialization package for autonomous quadcopter system',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',
@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+		'camera_node = drone_bringup.camera_node:main',
         ],
     },
 )

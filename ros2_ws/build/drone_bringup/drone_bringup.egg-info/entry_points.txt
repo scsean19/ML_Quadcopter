@@ -1,0 +1,2 @@
+[console_scripts]
+camera_node = drone_bringup.camera_node:main
