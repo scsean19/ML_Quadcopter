@@ -48,7 +48,7 @@ The Raspberry Pi companion computer handles perception and decision-making, whil
 | Accelerator (Planned) | Google Coral USB TPU           |
 | GPS                   | u-blox M8N                     |
 | ESC                   | 4-in-1 BLHeli_32               |
-| Frame                 | 5" and 10" quad configurations |
+| Frame                 | 7" quad configurations |
 
 ---
 
