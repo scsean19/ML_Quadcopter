@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
 		'camera_node = drone_bringup.camera_node:main',
+		'camera_receiver_node = drone_bringup.camera_receiver_node:main',
         ],
     },
 )
